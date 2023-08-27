@@ -8,16 +8,6 @@ O objetivo do projeto é obter novos insights que possam ser utilizados de algum
 #### Obtenção dos dados:
 - Os dados estavam disponíveis em um banco no MySQL, sendo assim, foi utilizado o MySQL Workbench para extrair os dados e convertê-los para arquivos de texto (.csv) que depois foram carregados no Python.
 - Ferramentas utilizadas: MySQL, MySQL Workbench e Python.
-- 
-#### Escolha das bibliotecas que foram utilizadas no Python:
-- NumPy: Utilizado para realizar operações matemáticas e também para ter
-mais eficiência e velocidade na manipulação dos dados.
-- Pandas: Biblioteca fundamental que forneceu as ferramentas necessárias
-para analisar e manipular dados em Python.
-- Matplotlib e Searbon: Pacotes utilizados para visualização e análise dos
-dados.
-- Datetime: Pacote que fornece funções e ferramentas para trabalhar com
-dados.
 
 #### Análise Exploratória de Dados - Pt.1:
 - Nesta etapa, foi feita uma exploração inicial dos dados, apenas para saber algumas informações básicas como o tipo e formato dos dados, a distribuição deles e se havia dados faltantes, a fim de entender melhor com o que se estava trabalhando.
